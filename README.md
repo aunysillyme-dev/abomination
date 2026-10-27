@@ -1,5 +1,7 @@
 # Abomination
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/aunysillyme-dev/abomination/badge)](https://scorecard.dev/viewer/?uri=github.com/aunysillyme-dev/abomination)
+
 An icebreaker that starts with an argument.
 
 Everyone joins a room on their own phone and confesses twelve food crimes in
